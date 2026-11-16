@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches & local environments
+.pytest_cache/
+.coverage
+htmlcov/
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Chroma DB generated vector data (re-generated on launch)
+chroma_db/
+*.sqlite3
+
+# Streamlit config/cache
+.streamlit/
+tickets_created.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
