@@ -4,7 +4,7 @@ Everything here is synthetic. ZentroMart is a fictional Indian online store. No 
 
 **Today's date for this dataset is 20 October 2026.** Use it for every deadline and delay calculation, not your computer's clock.
 
-## What you're building with it
+## What we're building with it
 
 A support agent for ZentroMart that answers customers who write in by chat, email or support ticket. In Step 4 you add voice as a feature: customers can send a voice message, which your agent transcribes with Gnani STT over WebSocket, and your agent can reply with audio streamed from Gnani TTS. No prerecorded audio files are supplied. Record your own voice to test Gnani STT/TTS.
 
